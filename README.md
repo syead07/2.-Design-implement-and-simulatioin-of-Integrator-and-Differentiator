@@ -63,24 +63,21 @@ We get, CF = (1.59*103*10-7) / 15.9*103
  
 **INTEGRATOR:**
   **CIRCUIT DIAGRAM**
-
-
   **MODEL GRAPH:**
-
-
   **TABULATION:**
- 
+ <img width="957" height="1600" alt="image" src="https://github.com/user-attachments/assets/ecee7006-a199-4fa4-9b6d-1f953042c025" />
+<img width="1530" height="1464" alt="image" src="https://github.com/user-attachments/assets/4a4aa097-ebc3-41bd-951b-6a1691b3cc2d" />
+<img width="1213" height="1600" alt="image" src="https://github.com/user-attachments/assets/0862e089-9c72-4fa4-b870-2be67515d5ab" />
 
-**MODEL CALCULATION:**
 
 **DIFFERENTIATOR:**
   **CIRCUIT DIAGRAM**
-
+<img width="1451" height="1600" alt="image" src="https://github.com/user-attachments/assets/f2711b9b-53a6-482a-b50d-d7462ddb7278" />
 
   **MODEL GRAPH:**
-
-
   **TABULATION:**
+<img width="933" height="1600" alt="image" src="https://github.com/user-attachments/assets/5a82db12-500b-4d8d-8b59-2b958b156249" />
+<img width="1131" height="1600" alt="image" src="https://github.com/user-attachments/assets/26b8fdad-a74d-4bc1-b4ce-821e8bea9bca" />
 
  
 
@@ -95,7 +92,11 @@ We get, CF = (1.59*103*10-7) / 15.9*103
  
   **LT SPICE**
   **CIRCUIT and Waveform**
-  
+  <img width="1600" height="848" alt="image" src="https://github.com/user-attachments/assets/7980a0a8-8450-4f6e-b1c9-f3e87fee67b9" />
+<img width="1600" height="797" alt="image" src="https://github.com/user-attachments/assets/b9a7d583-30e7-4b4a-b3f4-79f3c3901051" />
+<img width="1600" height="837" alt="image" src="https://github.com/user-attachments/assets/92769333-692b-4c15-85cf-defdb718244f" />
+<img width="1600" height="820" alt="image" src="https://github.com/user-attachments/assets/79b24abd-a010-4f9b-85fa-24c45ed31f29" />
+
 
 **RESULT:**
 Thus the Integrator and Differentiator are designed and simulated performance was successfully tested using op-amp IC 741 and LT SPICE.
